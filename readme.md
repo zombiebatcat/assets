@@ -2,13 +2,13 @@
 工程文件通常放在项目根目录
 
 ## 目录结构
-- `animations` 动画
+- `animations` [动画]
 
-    - `animal` 动物
+    - `animal` [动物]
 
-    - `human` 人类
+    - `human` [人类]
 
-        - `body` 身体
+        - `body` [身体]
 
         - `expression` [表情](./animations/human/expression/)
             - `cry` 哭泣
@@ -30,9 +30,9 @@
 
         - `human` 人类
 
-    - `monster` 怪物
+    - `monster` [怪物]
 
-- `scrips` 脚本
+- `scrips` [脚本]
 
 
-- `texture` 纹理
+- `texture` [纹理]
