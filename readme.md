@@ -4,8 +4,10 @@
 ## 目录结构
 
 
-- `animations` [动画](./animations/README.md)
-<details><summary style="float:right">展开目录</summary>
+<details>
+<summary>animations - 动画</summary>
+
+[详情](./animations/README.md)
 
 - `animal` [动物](./animations/animal/README.md)
 - `human` [人类](./animations/human/README.md)
@@ -26,9 +28,10 @@
 - `monster` [怪物](./animations/monster/)
 </details>
 
+<details>
+<summary>models - 模型</summary>
 
-- `models` [模型](./models/README.md)
-<details><summary style="float:right">展开目录</summary>
+[详情](./models/README.md)
 
 - `animal` [动物](./models/animal/)
 - `building` [建筑](./models/building/)
@@ -45,14 +48,18 @@
     - `tree` [树](./models/plant/tree/README.md)
 </details>
 
-<details><summary style="float:right">展开目录</summary>
+<details>
+<summary>scrips - 脚本</summary>
 
-- `scrips` [脚本](/scripts/README.md)
+[详情](./scrips/README.md)
 
 </details>
 
-- `texture` [纹理](./textures/README.md)
-<details><summary style="float:right">展开目录</summary>
+
+<details>
+<summary>textures - 纹理</summary>
+
+[详情](./textures/README.md)
 
 - `animal` [动物](./textures/animal/README.md)
 - `env` [环境](./textures/env/README.md)
