@@ -5,9 +5,8 @@
 
 
 <details>
-<summary>animations - 动画</summary>
-
-[详情](./animations/README.md)
+<a href="./animations/README.md" style="float:right">详情</a>
+<h2><summary>animations - 动画</summary><h2>
 
 - `animal` [动物](./animations/animal/README.md)
 - `human` [人类](./animations/human/README.md)
@@ -29,9 +28,8 @@
 </details>
 
 <details>
+<a href="./models/README.md" style="float:right">详情</a>
 <summary>models - 模型</summary>
-
-[详情](./models/README.md)
 
 - `animal` [动物](./models/animal/)
 - `building` [建筑](./models/building/)
@@ -49,17 +47,14 @@
 </details>
 
 <details>
+<a href="./animations/README.md" style="float:right">详情</a>
 <summary>scrips - 脚本</summary>
-
-[详情](./scrips/README.md)
-
 </details>
 
 
 <details>
+<a href="./textures/README.md" style="float:right">详情</a>
 <summary>textures - 纹理</summary>
-
-[详情](./textures/README.md)
 
 - `animal` [动物](./textures/animal/README.md)
 - `env` [环境](./textures/env/README.md)
