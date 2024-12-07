@@ -3,8 +3,8 @@
 
 ## 目录结构
 
-<details>
-<summary>`animations` [动画](./animations/README.md)</summary>
+- `animations` [动画](./animations/README.md)
+<details><summary>展开目录</summary>
 
 - `animal` [动物](./animations/animal/README.md)
 - `human` [人类](./animations/human/README.md)
@@ -24,8 +24,9 @@
         - `sleep` 睡觉
 - `monster` [怪物](./animations/monster/)
 </details>
-<details>
-<summary>`models` [模型](./models/)</summary>
+
+- `models` [模型](./models/README.md)
+<details><summary>展开目录</summary>
 
 - `animal` [动物](./models/animal/)
 - `building` [建筑](./models/building/)
@@ -42,12 +43,14 @@
     - `tree` [树](./models/plant/tree/README.md)
 </details>
 
-<details>
-<summary>`scrips` [脚本](/scripts/README.md)</summary>
+<details><summary>展开目录</summary>
+
+- `scrips` [脚本](/scripts/README.md)
+
 </details>
 
-<details>
-<summary>`texture` [纹理](./textures/README.md)</summary>
+- `texture` [纹理](./textures/README.md)
+<details><summary>展开目录</summary>
 
 - `animal` [动物](./textures/animal/README.md)
 - `env` [环境](./textures/env/README.md)
