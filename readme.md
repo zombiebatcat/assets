@@ -3,8 +3,11 @@
 
 ## 目录结构
 
+
+<details><summary>
+
 - `animations` [动画](./animations/README.md)
-<details><summary>展开目录</summary>
+</summary>
 
 - `animal` [动物](./animations/animal/README.md)
 - `human` [人类](./animations/human/README.md)
@@ -25,8 +28,9 @@
 - `monster` [怪物](./animations/monster/)
 </details>
 
-- `models` [模型](./models/README.md)
-<details><summary>展开目录</summary>
+<details>
+
+- `models` [模型](./models/README.md) <summary>展开目录</summary>
 
 - `animal` [动物](./models/animal/)
 - `building` [建筑](./models/building/)
