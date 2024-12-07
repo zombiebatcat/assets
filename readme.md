@@ -5,7 +5,6 @@
 
 
 <details>
-<a href="./animations/README.md" class="float-right">详情</a>
 <summary>animations - 动画</summary>
 
 - `animal` [动物](./animations/animal/README.md)
@@ -50,7 +49,7 @@
 </details>
 
 
-<details>
+<details open>
 <summary>textures - 纹理</summary>
 
 - `animal` [动物](./textures/animal/README.md)
