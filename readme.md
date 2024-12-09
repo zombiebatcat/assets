@@ -36,7 +36,7 @@
     - `kids` [小孩](./models/human/kids/README.md)
     - `manle` [男性](./models/human/male/README.md)
 - `monster` [怪物](./models/monster/README.md)
-- `otehr` [其他](./models/other/README.md)
+- `other` [其他](./models/other/README.md)
 - `plant` [植物](./models/plant/README.md)
 
     - `flower` [花](./models/plant/flower/README.md)
